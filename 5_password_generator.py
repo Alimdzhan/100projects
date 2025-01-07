@@ -19,6 +19,7 @@ for number in range(0, nr_numbers):
 
 random.shuffle(password_list)
 
+
 password = ""
 for number in password_list:
     password += number
